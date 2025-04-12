@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2086151842, guid: 0aadaaf691a00164da9e82fee2329580, type: 3}
+  m_Name: EE_TS_Servant_F_HM_NotRotated
+  m_EditorClassIdentifier: 
+  IsExportEnabled: 0
+  CantBeHiddenByDollRoom: 0
+  ShowAboveAllIgnoreLayer: 0
+  Layer: 200
+  m_HideBodyParts: 0
+  ShowLowerMaterials: 0
+  SkeletonModifiers: []
+  PrimaryColorsProfile: {fileID: 0}
+  SecondaryColorsProfile: {fileID: 0}
+  BakedTextures: {fileID: 0}
+  PreviewTexture: {fileID: 0}
+  ColorPresets: {fileID: 0}
+  m_PrimaryRamps: []
+  m_SecondaryRamps: []
+  BodyParts:
+    m_Type: 256
+  RendererPrefab: {"fileid": 5611389193079439844, "guid": "3d45f817862c01346800e4f572335275", type: 3}
+  Material: {"fileid": 2100000, "guid": "e54748172d2ff0b40a6262791707af31", type: 2}
+  Textures:
+  - ActiveTexture: {"fileid": 2800000, "guid": "2df91e5423ec42f4b8215ef0794aa494",
+      type: 3}
+    DiffuseTexture: {"fileid": 2800000, "guid": "2df91e5423ec42f4b8215ef0794aa494",
+      type: 3}
+    NormalTexture: {"fileid": 2800000, "guid": "dea27749d5aa20d40b3db29257e33c2c",
+      type: 3}
+    MaskTexture: {"fileid": 2800000, "guid": "a0fdf500b917dd3409325f71c808f671", type: 3}
+    RampShadowTexture: {fileID: 0}
+    DefaultMask1: {fileID: 0}
+    DefaultMask2: {fileID: 0}
+    DiffuseActive: 1
+    NormalActive: 1
+    MaskActive: 1
+    RampShadowActive: 0
+    UseRamp1Mask: 0
+    UseRamp2Mask: 0
+    UseDefaultMask1: 0
+    UseDefaultMask2: 0
+    UseShadowMask: 0
+    Ramps:
+      PrimaryMask: {fileID: 0}
+      PrimaryRamp: {fileID: 0}
+      SecondaryMask: {fileID: 0}
+      SecondaryRamp: {fileID: 0}
+    Channel: 0
+  OutfitParts: []
+  ForcedPrimaryIndex: -1
+  ForcedSecondaryIndex: -1

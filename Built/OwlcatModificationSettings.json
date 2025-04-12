@@ -1,0 +1,22 @@
+{
+    "BundlesLayout": {
+        "m_Guids": [
+            "8d31d7dc6d062354194b9a28d9bb942a",
+            "201db43d81e653044a4003f377dfc3e6",
+            "e54748172d2ff0b40a6262791707af31",
+            "3d45f817862c01346800e4f572335275",
+            "f1a2e38d516208347bd759db85fb1bd2"
+        ],
+        "m_Bundles": [
+            "Ezfi_KEE_Test_content",
+            "Ezfi_KEE_Test_content",
+            "Ezfi_KEE_Test_content",
+            "Ezfi_KEE_Test_content",
+            "Ezfi_KEE_Test_content"
+        ]
+    },
+    "BundleDependencies": {
+        "m_List": []
+    },
+    "BlueprintPatches": []
+}
